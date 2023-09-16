@@ -1,1 +1,1 @@
-Repository for code coverage
+Repository for github pages
